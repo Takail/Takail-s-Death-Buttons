@@ -1,0 +1,1 @@
+AddCSLuaFile("main/cl_takscript.lua")
